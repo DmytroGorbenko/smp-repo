@@ -1,4 +1,10 @@
 First data in this file
 First modification
 added for amend -> directly before amend
+<<<<<<< HEAD
 changed in second branch
+=======
+added om master after branching
+>>>>>>> master
+
+resolved
